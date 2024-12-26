@@ -724,21 +724,8 @@
                       variant: "h6",
                       className: "font-medium text-subtext",
                       fontInter: !0,
-                      children: "Welcome to",
-                    }),
-                    (0, a.jsxs)("div", {
-                      className: "flex flex-row items-center m-auto gap-2.5 ",
-                      children: [
-                        (0, a.jsx)(n.JO, {
-                          icon: "logo",
-                          className: " w-9 h-10",
-                        }),
-                        (0, a.jsx)(n.JO, {
-                          icon: "logoText",
-                          className: " w-32 h-[23px]",
-                        }),
-                      ],
-                    }),
+                      children: "Welcome",
+                    })
                   ],
                 }),
                 (0, a.jsxs)("div", {
@@ -1412,19 +1399,12 @@
       let b = [
           { id: 0, title: "Foundation", href: "/foundation" },
           { id: 1, title: "Features", href: "#features-section" },
-          { id: 2, title: "Architecture", href: "#architecture-section" },
           { id: 3, title: "Solutions", href: "#industry-accelerator-section" },
         ],
         v = [
           { id: 0, title: "Home", href: "/" },
           { id: 1, title: "Grants", href: "#" },
           { id: 2, title: "Hackathons", href: "#" },
-          {
-            id: 3,
-            title: "Get Involved",
-            href: "https://t.me",
-            target: "_blank",
-          },
         ],
         w = [
           { id: 0, imgSrc: c.default, text: "Io.Net" },
@@ -1575,7 +1555,7 @@
             id: 2,
             title: "Ecosystem Growth",
             subtitle:
-              "Our initiatives include onboarding AI projects, supporting them with resources, and integrating their solutions into the Parallel AI ecosystem.",
+              "Our initiatives include onboarding AI projects, supporting them with resources, and integrating their solutions into the Multi AI ecosystem.",
             imgSrc: f.default,
             imgAlt: "Ecosystem Growth image",
           },

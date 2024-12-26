@@ -1202,19 +1202,12 @@
       let f = [
           { id: 0, title: "Foundation", href: "/foundation" },
           { id: 1, title: "Features", href: "#features-section" },
-          { id: 2, title: "Architecture", href: "#architecture-section" },
           { id: 3, title: "Solutions", href: "#industry-accelerator-section" },
         ],
         j = [
           { id: 0, title: "Home", href: "/" },
           { id: 1, title: "Grants", href: "#" },
           { id: 2, title: "Hackathons", href: "#" },
-          {
-            id: 3,
-            title: "Get Involved",
-            href: "https://t.me",
-            target: "_blank",
-          },
         ],
         b = [
           { id: 0, imgSrc: l.default, text: "Io.Net" },
@@ -1365,7 +1358,7 @@
             id: 2,
             title: "Ecosystem Growth",
             subtitle:
-              "Our initiatives include onboarding AI projects, supporting them with resources, and integrating their solutions into the Parallel AI ecosystem.",
+              "Our initiatives include onboarding AI projects, supporting them with resources, and integrating their solutions into the Multi AI ecosystem.",
             imgSrc: x.default,
             imgAlt: "Ecosystem Growth image",
           },
